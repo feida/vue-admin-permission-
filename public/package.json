@@ -1,0 +1,31 @@
+{
+  "name": "resto-public",
+  "version": "0.1.2",
+  "dependencies": {
+    "amqplib": "*",
+    "async": "^2.6.1",
+    "crypto": "^1.0.1",
+    "date-format": "*",
+    "elasticsearch": "*",
+    "mkdirp": "*",
+    "mockjs": "^1.0.1-beta3",
+    "moment": "^2.22.2",
+    "mongoose": "*",
+    "mqtt": "^2.18.8",
+    "mysql2": "^1.5.1",
+    "protobufjs": "^3.8.2",
+    "qiniu": "^7.2.1",
+    "redis": "*",
+    "request": "*",
+    "sequelize": "*",
+    "utf8": "*",
+    "weixin-redpack": "*",
+    "xml2js": "*"
+  },
+  "scripts": {
+    "resto-dev": "sequelize-auto -o './service/mysql/resto_brand/schema' -d resto_brand -h rm-uf68wwy6152b6493dho.mysql.rds.aliyuncs.com -u root -p 3306 -x f4xD1YV8DCT5 -e mysql",
+    "resto-pro": "sequelize-auto -o './service/mysql/resto_brand/schema' -d resto_brand -h rds64fw2qrd8q0eg95nmo.mysql.rds.aliyuncs.com -u viewer -p 3306 -x Vino2016 -e mysql",
+    "brand-dev": "sequelize-auto -o './service/mysql/brand_currency/schema' -d restobigdata -h rm-uf68wwy6152b6493dho.mysql.rds.aliyuncs.com -u root -p 3306 -x f4xD1YV8DCT5 -e mysql",
+    "brand-pro": "sequelize-auto -o './service/mysql/brand_currency/schema' -d restobigdata -h rds64fw2qrd8q0eg95nmo.mysql.rds.aliyuncs.com -u viewer -p 3306 -x Vino2016 -e mysql"
+  }
+}

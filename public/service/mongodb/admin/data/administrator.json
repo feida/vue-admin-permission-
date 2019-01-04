@@ -1,0 +1,17 @@
+{
+  "_id" : "5b7fce1bca96274f8abe7ad1",
+  "admin_roles" : [
+    "5b978ded439546188feb3fc0"
+  ],
+  "status" : 1,
+  "admin_name" : "admin",
+  "full_name" : "王晓辉",
+  "admin_password" : "fa491d24eb59c235635b2f08ff4052fd",
+  "password_salt" : "0.4105013126212522",
+  "admin_gender" : false,
+  "admin_mobile" : "13127538810",
+  "admin_age" : 18,
+  "admin_avatar" : "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+  "admin_introduction" : "我是后台用户",
+  "__v" : 0
+}

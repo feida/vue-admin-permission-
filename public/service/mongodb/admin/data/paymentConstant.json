@@ -1,0 +1,154 @@
+[
+  {
+    "payment_code": "1",
+    "payment_name": "微信支付"
+  },
+  {
+    "payment_code": "2",
+    "payment_name": "红包支付"
+  },
+  {
+    "payment_code": "3",
+    "payment_name": "优惠券支付"
+  },
+  {
+    "payment_code": "4",
+    "payment_name": "其他方式支付"
+  },
+  {
+    "payment_code": "5",
+    "payment_name": "银行卡支付"
+  },
+  {
+    "payment_code": "6",
+    "payment_name": "充值金额支付"
+  },
+  {
+    "payment_code": "7",
+    "payment_name": "充值赠送的金额支付"
+  },
+  {
+    "payment_code": "8",
+    "payment_name": "等位红包"
+  },
+  {
+    "payment_code": "9",
+    "payment_name": "饿了吗"
+  },
+  {
+    "payment_code": "10",
+    "payment_name": "支付宝"
+  },
+  {
+    "payment_code": "11",
+    "payment_name": "菜品退款支付"
+  },
+  {
+    "payment_code": "12",
+    "payment_name": "现金支付"
+  },
+  {
+    "payment_code": "13",
+    "payment_name": "评论红包支付"
+  },
+  {
+    "payment_code": "14",
+    "payment_name": "分享返利红包支付"
+  },
+  {
+    "payment_code": "15",
+    "payment_name": "退菜红包支付"
+  },
+  {
+    "payment_code": "16",
+    "payment_name": "闪惠支付"
+  },
+  {
+    "payment_code": "17",
+    "payment_name": "会员积分支付"
+  },
+  {
+    "payment_code": "18",
+    "payment_name": "找零"
+  },
+  {
+    "payment_code": "19",
+    "payment_name": "现金退款"
+  },
+  {
+    "payment_code": "20",
+    "payment_name": "第三方储值余额支付"
+  },
+  {
+    "payment_code": "21",
+    "payment_name": "消费返利余额支付"
+  },
+  {
+    "payment_code": "22",
+    "payment_name": "储值卡折扣支付"
+  },
+  {
+    "payment_code": "23",
+    "payment_name": "卡充值金额支付"
+  },
+  {
+    "payment_code": "24",
+    "payment_name": "卡充值赠送的金额支付"
+  },
+  {
+    "payment_code": "25",
+    "payment_name": "卡退款的金额支付"
+  },
+  {
+    "payment_code": "26",
+    "payment_name": "免单"
+  },
+  {
+    "payment_code": "27",
+    "payment_name": "团购支付"
+  },
+  {
+    "payment_code": "28",
+    "payment_name": "代金券支付"
+  },
+  {
+    "payment_code": "29",
+    "payment_name": "门店浮出零用金"
+  },
+  {
+    "payment_code": "30",
+    "payment_name": "门店浮出零找金"
+  },
+  {
+    "payment_code": "31",
+    "payment_name": "销售总额"
+  },
+  {
+    "payment_code": "32",
+    "payment_name": "折扣总额"
+  },
+  {
+    "payment_code": "33",
+    "payment_name": "净销售总额"
+  },
+  {
+    "payment_code": "34",
+    "payment_name": "现金合计"
+  },
+  {
+    "payment_code": "35",
+    "payment_name": "银行卡合计"
+  },
+  {
+    "payment_code": "36",
+    "payment_name": "其它卡券合计"
+  },
+  {
+    "payment_code": "37",
+    "payment_name": "合计"
+  },
+  {
+    "payment_code": "38",
+    "payment_name": "退款金额"
+  }
+]
